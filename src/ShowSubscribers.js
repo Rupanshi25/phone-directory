@@ -3,7 +3,6 @@ import Header from './Header.js';
 import './ShowSubscribers.css';
 class ShowSubscribers extends Component
  {
-}
 
 render() {
 
